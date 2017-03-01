@@ -109,7 +109,42 @@ $less->compileFile('./less/type-d-1.less', 'css/style.css');
           </div>
         </div>
        
+<div class="an" style="display: none;">
+  
 
+     <div class="col-md-6">
+          <div class="form-group">
+            <h3>THÔNG TIN NGƯỜI MUA</h3>
+            <label for="">Họ và Tên</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập Họ Tên">
+            <label for="">Điện Thoại</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập số Điện Thoại">
+            <label for="">Email</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập Email">
+            <label for="">Dịa Chỉ</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập Địa Chỉ">
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="form-group">
+            <h3>THÔNG TIN NGƯỜI NHẬN</h3>
+            <label for="">Họ và Tên</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập Họ Tên">
+            <label for="">Điện Thoại</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập số Điện Thoại">
+            <label for="">Email</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập Email">
+            <label for="">Dịa Chỉ</label>
+            <input type="text" class="form-control" id="" placeholder="Nhập Địa Chỉ">
+          </div>
+        </div>
+        
+      <button type="submit"  class="btn btn-primary">Submit</button>
+        
+      
+        
+        </div>
 
  </form>
 
