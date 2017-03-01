@@ -1,0 +1,92 @@
+#maincontainer .heading1 {
+  margin-bottom: 40px;
+  border-bottom: 1px solid #efefef;
+  margin-top: 0px;
+  font-size: 34px;
+}
+#maincontainer .heading1 .maintext {
+  font-size: 28px;
+  color: #5e626b;
+  text-transform: uppercase;
+  padding: 0px 14px 4px 0;
+  font-family: 'Crete Round', serif;
+}
+#maincontainer .heading1 .subtext {
+  font-size: 16px;
+  color: #96979d;
+  text-transform: none;
+  font-weight: normal;
+  padding: 0px;
+}
+#maincontainer .cart-info table {
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+  border-top: 1px solid #E7E7E7;
+  border-left: 1px solid #E7E7E7;
+  border-right: 1px solid #E7E7E7;
+  background-color: #fff;
+}
+#maincontainer .cart-info table tr {
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+#maincontainer .cart-info tbody .remove,
+#maincontainer .cart-info tbody .image {
+  text-align: center;
+}
+#maincontainer .cart-info th {
+  font-weight: bold;
+  background-color: #eeeeee;
+  border-bottom: 1px solid #E7E7E7;
+}
+#maincontainer .cart-info th {
+  padding: 10px;
+}
+#maincontainer .cart-info td,
+#maincontainer .cart-info th {
+  padding: 15px;
+}
+#maincontainer table th {
+  color: #333;
+}
+#maincontainer .cart-info tbody .name,
+#maincontainer .cart-info tbody .model {
+  text-align: left;
+}
+#maincontainer .cart-info th.quantity,
+#maincontainer .cart-info td.quantity {
+  text-align: left;
+}
+#maincontainer .cart-info th .price,
+#maincontainer .cart-info th .total,
+#maincontainer .cart-info tbody .price,
+#maincontainer .cart-info tbody .total {
+  text-align: right;
+}
+#maincontainer .btn-orange {
+  color: #ffffff;
+  text-shadow: none;
+  background: #F25C27;
+  box-shadow: none;
+}
+#maincontainer btn {
+  padding: 6px 12px;
+}
+#maincontainer input.search-query,
+#maincontainer .btn,
+#maincontainer .label,
+#maincontainer .badge,
+#maincontainer .nav-pills > li > a {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+#maincontainer .mr10 {
+  margin-right: 10px;
+}
+#maincontainer .totalamout {
+  font-size: 22px;
+  color: #f25c27;
+}
