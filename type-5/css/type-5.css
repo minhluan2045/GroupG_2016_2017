@@ -1,0 +1,29 @@
+.type-5 .footer {
+  background: #525252;
+}
+.type-5 .footer h3 {
+  color: #fff;
+}
+.type-5 .footer ul li {
+  color: #fff;
+}
+.type-5 .footer p {
+  color: #fff;
+}
+.type-5 .menu-button {
+  border: 1px #fff solid;
+  text-align: center;
+}
+.type-5 .menu-button:hover {
+  background: blue;
+}
+.type-5 .item {
+  height: 300px;
+}
+.type-5 .imge {
+  width: 190px;
+  padding-left: 35px;
+}
+.type-5 .fotter-bot {
+  text-align: center;
+}
